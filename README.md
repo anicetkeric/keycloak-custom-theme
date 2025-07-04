@@ -1,0 +1,1 @@
+# keycloak-custom-theme

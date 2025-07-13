@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ResourceBundleManager">
-    <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_de.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_fr.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_it.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_ja.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_pt.properties" />
     <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_de.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_en.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_es.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_fr.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_it.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_ja.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_pt.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/theme/iam-redesign/login/messages/messages_zh_CN.properties" />
       <base-name>messages</base-name>
     </custom-resource-bundle>
   </component>
